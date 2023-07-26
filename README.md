@@ -1,3 +1,4 @@
 # NIKE-SHOE-PRODUCTS-CARD
 TO RUN VITE PROJECT USE COMMAND - npm run dev
-<img alt="coding" width="250" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
+https://github.com/Avinash8225048544/NIKE-SHOE-PRODUCTS-CARD/assets/78852355/96b768b3-1eba-4cde-b76e-d87bc6af753c
